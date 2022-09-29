@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BussinessCard1</string>
+    <string name="doctor_name">Dr. Oleg Mayami</string>
+    <string name="type_dr">Dental surgeon</string>
+    <string name="just_inf">Youe friendly Dental Friend</string>
+</resources>
