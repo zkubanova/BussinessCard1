@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">BussinessCard1</string>
-    <string name="doctor_name">Dr. Oleg Mayami</string>
-    <string name="type_dr">Dental surgeon</string>
-    <string name="just_inf">Youe friendly Dental Friend</string>
-</resources>
+    <string name="app_name">BussinessCard3</string>
+    <string name="dr_name">Dr. Oleg Mayami</string>
+    <string name="scan">Scan To Connect</string>
+    <string name="phone_number">+996 (774) 678 876</string>
+    <string name="email_address">oleg.mayami93@gmail.com</string>
+
+        <string name="doctor_name">Dr. Oleg Mayami</string>
+        <string name="type_dr">Dental surgeon</string>
+        <string name="just_inf">Youe friendly Dental Friend</string>
+    </resources>
