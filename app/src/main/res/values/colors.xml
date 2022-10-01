@@ -7,5 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="LightBlue">#1A82FC</color>
+    <color name="dark_grey">#3E3D3D</color>
     <color name="ocean_color">#01B2AA</color>
+    <color name="one_purple">#322E78</color>
+    <color name="back_ground">#E5E5E5</color>
+    <color name="txt_color">#322E78</color>
+
 </resources>
